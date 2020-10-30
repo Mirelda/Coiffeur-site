@@ -104,8 +104,8 @@ body{
 	transform: scale(1.03);
 }
 
-.banner .container .banner-box .banner-image{
-	padding-left: 50px;
+.banner .container .banner-image{
+	margin-left: 70px;
 	border-radius: 2px;
 }
 .banner .container .banner-box h1{
